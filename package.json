@@ -1,0 +1,18 @@
+{
+  "name": "motion-particles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chroma-js": "^2.1.0",
+    "jimp": "^0.16.1",
+    "sensor": "file:../sensor"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
